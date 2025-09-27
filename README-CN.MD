@@ -17,4 +17,4 @@
 - 🌱 正在深入学习量子计算和量化投资
 - 🗣️希望跟大家交流
 - 💬 欢迎在 [这里](https://github.com/lich0821/lich0821/issues) 向我提问
-- <img src="https://komarev.com/ghpvc/?username=lich0821&color=brightgreen&style=for-the-badge&label=%20%20%20%20%20 欢迎交流 %20%20%20%20%20" alt="访问统计" /> 👉
+- <img src="https://komarev.com/ghpvc/?username=lich0821&color=brightgreen&style=for-the-badge&label=%20%20%20%20%20欢迎交流%20%20%20%20%20" alt="欢迎交流" /> 👉

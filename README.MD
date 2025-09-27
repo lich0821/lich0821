@@ -17,4 +17,4 @@ I'm Chuck, currently working as an **AI Architect** and also a full-stack develo
 - 🌱 Deeply learning quantum computing and quantitative investment
 - 🗣️ Looking forward to exchanging ideas with everyone
 - 💬 Feel free to ask me anything [here](https://github.com/lich0821/lich0821/issues)
-- <img src="https://komarev.com/ghpvc/?username=lich0821&color=brightgreen&style=for-the-badge&label=Welcome%20to%20connect" alt="访问统计" /> 👉
+- <img src="https://komarev.com/ghpvc/?username=lich0821&color=brightgreen&style=for-the-badge&label=Welcome%20to%20connect" alt="Welcome to connect" /> 👉
